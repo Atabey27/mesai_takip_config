@@ -1,10 +1,11 @@
 {
-  "min_version": "1.0.0",
-  "min_build_number": 1,
-  "latest_version": "1.1.0",
-  "latest_build_number": 2,
-  "force_update": false,
+  "min_version": "1.2.0",
+  "min_build_number": 3,
+  "latest_version": "1.2.0",
+  "latest_build_number": 3,
+  "force_update": true,
   "update_message": "Yeni özellikler ve hata düzeltmeleri mevcut. Lütfen güncelleyin.",
   "play_store_url": "https://play.google.com/store/apps/details?id=com.nebulacore.mesai_takip"
 }
+
 
