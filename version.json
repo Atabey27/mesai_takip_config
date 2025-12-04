@@ -3,9 +3,8 @@
   "min_build_number": 3,
   "latest_version": "1.2.0",
   "latest_build_number": 3,
-  "force_update": true,
-  "update_message": "Yeni özellikler ve hata düzeltmeleri mevcut. Lütfen güncelleyin.",
-  "play_store_url": "https://play.google.com/store/apps/details?id=com.nebulacore.mesai_takip"
+  "force_update": false,
+  "update_message": "🛡️ Güvenlik güncellemesi! Yeni özellikler ve iyileştirmeler.",
+  "play_store_url": "https://play.google.com/store/apps/details?id=com.nebulacore.mesai_takip",
+  "_comment": "Bu dosya Firebase Remote Config çalışmazsa fallback olarak kullanılır. Firebase ile aynı değerleri tutun!"
 }
-
-
