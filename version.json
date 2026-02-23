@@ -1,13 +1,14 @@
 {
-  "min_version": "1.2.5",
-  "min_build_number": 10,
-  "latest_version": "1.2.5",
-  "latest_build_number": 10,
+  "min_version": "1.2.8",
+  "min_build_number": 26,
+  "latest_version": "1.2.8",
+  "latest_build_number": 26,
   "force_update": true,
   "update_message": "🛡️ Güvenlik güncellemesi! Yeni özellikler ve iyileştirmeler.",
   "play_store_url": "https://play.google.com/store/apps/details?id=com.nebulacore.mesai_takip",
   "_comment": "Bu dosya Firebase Remote Config çalışmazsa fallback olarak kullanılır. Firebase ile aynı değerleri tutun!"
 }
+
 
 
 
